@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @k0038j
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm Carlos Aráuz
 
-<!---
-k0038j/k0038j is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Engineer focused on enterprise application development,
+software architecture and system integration.
+
+I build business applications using .NET, Angular, ABP Framework,
+SQL Server and modern software engineering practices.
+
+🛠️ Tech Stack
+
+Backend
+C# • .NET • ASP.NET Core • ABP Framework • Entity Framework Core • Dapper
+
+Frontend
+Angular • TypeScript • JavaScript • HTML • CSS
+
+Database
+SQL Server • PostgreSQL • SQLite
+
+Architecture & Engineering
+Clean Architecture • DDD • REST APIs • Microservices
+Background Jobs • Authentication & Authorization
+
+DevOps & Tools
+Docker • Git • GitHub Actions • Visual Studio • VS Code
+
+🤖 AI-assisted Development
+
+I use AI-assisted development tools to improve software
+development, code analysis, documentation and productivity.
+
+📌 Featured Projects
+
+...
